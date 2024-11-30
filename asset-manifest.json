@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goods-card/static/css/main.cf8cf854.css",
+    "main.js": "/goods-card/static/js/main.1d8f010b.js",
+    "static/js/453.c3593735.chunk.js": "/goods-card/static/js/453.c3593735.chunk.js",
+    "index.html": "/goods-card/index.html",
+    "main.cf8cf854.css.map": "/goods-card/static/css/main.cf8cf854.css.map",
+    "main.1d8f010b.js.map": "/goods-card/static/js/main.1d8f010b.js.map",
+    "453.c3593735.chunk.js.map": "/goods-card/static/js/453.c3593735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8cf854.css",
+    "static/js/main.1d8f010b.js"
+  ]
+}
